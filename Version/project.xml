@@ -2,7 +2,7 @@
 <sharpUpdate> 
     <update appID="TestApp"> 
         <version>2.0.0.0</version> 
-        <url>https://github.com/BuuChau/UpdateVersion/blob/master/TestApp/bin/Debug/TestApp.exe</url> 
+        <url>https://rawgit.com/BuuChau/UpdateVersion/master/TestApp/TestApp.exe</url> 
         <fileName>TestApp.exe</fileName> 
         <md5>15728576cfc373c7a48875d7ca35d523</md5>
         <description>Update: 06/19/2014:
