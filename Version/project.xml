@@ -4,9 +4,8 @@
         <version>3.0.0.0</version> 
         <url>https://rawgit.com/BuuChau/UpdateVersion/master/TestApp/TestApp.exe</url> 
         <fileName>TestApp.exe</fileName> 
-        <md5>15728576cfc373c7a48875d7ca35d523</md5>
-        <description>Update: 06/19/2014:
-        1. Added notification message when the current version is already the latest.</description> 
+        <md5>d54c2d19174a9a54369e50e5633894eb</md5>
+        <description>ssssssssssssssssssssssssssssssssssssssss.</description> 
         <launchArgs></launchArgs> 
     </update> 
 </sharpUpdate>
