@@ -1,7 +1,7 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appID="TestApp"> 
-        <version>2.0.0.0</version> 
+        <version>3.0.0.0</version> 
         <url>https://rawgit.com/BuuChau/UpdateVersion/master/TestApp/TestApp.exe</url> 
         <fileName>TestApp.exe</fileName> 
         <md5>15728576cfc373c7a48875d7ca35d523</md5>
